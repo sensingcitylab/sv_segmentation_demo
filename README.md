@@ -9,7 +9,7 @@ This repository demonstrates the use of the MMSegmentation library provided by O
 - **`configs/`**: Contains model configuration files.
 - **`sv_img/`**: Stores the original street view images.
 - **`sv_img_seg/`**: Stores images after semantic segmentation.
-- **`seg_result_statistics.csv`**: Records the proportion of different land cover categories.
+- **`seg_result_statistics.csv`**: Records the proportion of different street view categories.
 - **`segformer_segmentation_code.py`**: Python script for semantic segmentation demo.
 
 ## Usage
